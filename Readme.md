@@ -35,21 +35,21 @@
 
 ## About The Project
 
-Created fully responsive Paytm clone using Tailwind CSS 
+Created fully responsive Paytm clone using Tailwind CSS. 
 
 #### For large screens
 
-![large-screen](https://github.com/Shivanand0297/Project-15-Fullstack-Javascript-Web-Development-Bootcamp/blob/Project-15/screen%20shots/Product-Design-Landing-Page-full.png)
+![large-screen](https://github.com/Shivanand0297/Paytm-clone-Fullstack-Javascript-Web-Development-Bootcamp/blob/Paytm/Screenshots/laptop-Paytm-Secure-Fast-UPI-Payments-Recharge-Mobile-Pay-Bills.png)
 
-#### For large mobile screens
-
-
-![large-mobile-screen](https://github.com/Shivanand0297/Project-15-Fullstack-Javascript-Web-Development-Bootcamp/blob/Project-15/screen%20shots/Product-Design-Landing-Page-mobile-large.png)
-
-#### For small mobile screens
+#### For Medium screens
 
 
-![small-mobile-screens](https://github.com/Shivanand0297/Project-15-Fullstack-Javascript-Web-Development-Bootcamp/blob/Project-15/screen%20shots/Product-Design-Landing-Page-mobile-medium.png)
+![medium-screen](https://github.com/Shivanand0297/Paytm-clone-Fullstack-Javascript-Web-Development-Bootcamp/blob/Paytm/Screenshots/tablet-Paytm-Secure-Fast-UPI-Payments-Recharge-Mobile-Pay-Bills.png)
+
+#### For mobile screens
+
+
+![mobile-screens](https://github.com/Shivanand0297/Paytm-clone-Fullstack-Javascript-Web-Development-Bootcamp/blob/Paytm/Screenshots/mobile-Paytm-Secure-Fast-UPI-Payments-Recharge-Mobile-Pay-Bills.png)
 
 
 
@@ -60,7 +60,7 @@ Created fully responsive Paytm clone using Tailwind CSS
 **Using Technologies**
 
 1. ![HTML][html-shield]
-2. ![CSS][css-shield]
+2. ![TailwindCSS][Tailwind-CSS]
 
 **Using Tools**
 
@@ -87,18 +87,15 @@ Source Code :
 ## Learnings
 
 - ✔ HTML 5
-- ✔ CSS 
-  - ✔ How to plan the arrangement of elements inside div keeping in mind the flex property and responsiveness.
-  - ✔ Flexbox
-  - ✔ Card Design
-  - ✔ Positions
-  - ✔ Media Queries for responsiveness
+- ✔ Tailwind CSS 
+  - ✔ How to speed up the styling process using Tailwind CSS and it's Components.
+ - ✔ How to add Tailwind CSS components from different resources like tailblocks.cc, mambaui.com, daisyui.com 
  - ✔ Git and Github
 <!-- NOTE -->
 
 ## Note
 
-For this project I took around `8 hours` to complete it. The major portion of my time spent in working on CSS flexbox, responsiveness and how to plan the placement of elements inside different divs in order to achieve responsiveness.
+For this project I took around `5 Days` to complete it. The major portion of my time was spent in learning Tailwind CSS and making it responsive for all devices.
 
 <p align="right">(<a href="#top"> back to top </a>)</p>
 
@@ -148,7 +145,7 @@ For this project I took around `8 hours` to complete it. The major portion of my
 <!-- Tools and Technologies -->
 
 [html-shield]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
-[css-shield]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
+[Tailwind-CSS]: https://img.shields.io/badge/Tailwind-CSS-blue
 [vscode-shield]: https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
 [chrome-shield]: https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white
 [netlify-shield]: https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7
@@ -157,6 +154,6 @@ For this project I took around `8 hours` to complete it. The major portion of my
 
 <!-- Project screenshot -->
 
-[project-url]: https://shivanand-project-15-designer-landing.netlify.app/
+[project-url]: https://shivanand-paytm-clone.netlify.app/
 
-[source-code]: https://github.com/Shivanand0297/Project-15-Fullstack-Javascript-Web-Development-Bootcamp
+[source-code]: https://github.com/Shivanand0297/Paytm-clone-Fullstack-Javascript-Web-Development-Bootcamp
